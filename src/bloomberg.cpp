@@ -1,4 +1,4 @@
-#include <Python.h>
+#include <python.h>
 #include <cmath>
 #include <Windows.h>
 
